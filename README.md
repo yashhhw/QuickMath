@@ -1,8 +1,6 @@
 # QuickMath
 QuickMath is a Python-based smart calculator with a modern interface. It supports basic arithmetic operations and advanced functions like LCM and HCF. With intuitive error handling and a sleek design, SmartCalc makes mathematical calculations quick and easy.
 
-SmartCalc is a Python-based smart calculator with a modern interface. It supports basic arithmetic operations such as addition, subtraction, multiplication, and division, as well as more advanced functions like finding the least common multiple (LCM) and highest common factor (HCF) of two numbers.
-
 ## Features
 - Supports basic arithmetic operations: addition, subtraction, multiplication, and division.
 - Advanced functions: LCM and HCF calculation.
