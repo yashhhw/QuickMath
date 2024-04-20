@@ -74,7 +74,7 @@ operations = {'ADD': add, 'ADDITION': add, 'SUM': add, 'PLUS': add,
 
 win = Tk()
 win.geometry('400x300')
-win.title('Smart Calculator')
+win.title('QuickMath')
 
 # Background Gradient
 background_gradient = Canvas(win, width=400, height=300, bd=0, highlightthickness=0)
@@ -86,7 +86,7 @@ style = ttk.Style()
 style.configure('TButton', foreground='black', background='#ffffff', font=('Arial', 10, 'bold'))
 style.configure('TEntry', foreground='black', background='#ffffff', font=('Arial', 10))
 
-title_label = Label(win, text='Smart Calculator', font=('Arial', 16, 'bold'), bg='#4CAF50', fg='white', pady=10)
+title_label = Label(win, text='QuickMath', font=('Arial', 16, 'bold'), bg='#4CAF50', fg='white', pady=10)
 title_label.place(x=100, y=20, width=200)
 
 input_frame = Frame(win, bg='#ffffff')
